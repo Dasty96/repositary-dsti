@@ -1,2 +1,2 @@
-# repositary-dzeb
+# repositary-dsti
 Project clean IT
